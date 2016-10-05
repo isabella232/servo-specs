@@ -1,2 +1,4 @@
-Drafts for unspecced behaviors: <https://servo.github.io/servo-specs>
+# Drafts of unspecified behaviors that Servo needs to implement for web compatiblity
+
+<https://servo.github.io/servo-specs>
 
